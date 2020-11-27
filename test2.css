@@ -134,11 +134,12 @@ h4{
    padding-left: 55px;
 }
 .footericon{
-width:100%;
+width:90%;
 height:35px;
 background-color: white;
 padding-top: 2px;
 text-align: center;
+margin: auto;
 }
 .footericon i{
     color: gray;
