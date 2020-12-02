@@ -9,7 +9,10 @@
     height:210px;
     background-image: url("la.jpg");
     background-size: cover;
-    text-align: center;
+    text-align: center;2
+
+
+    
 }
 .subtop{
     width:300px;
@@ -92,7 +95,7 @@ width: 50px;
 height: 3px;
 background-color: #f8ac07;
 position: absolute;
-left: 55px;
+left: 53px;
 top: 10px;
 }
 
@@ -128,7 +131,7 @@ top: 10px;
     color: white;
     font-size: 1em;
     
-    padding: 9px 8px;}
+    padding: 9px 10px;}
 h4{
     margin-top: -25px;
     font-size: 15px;
@@ -156,7 +159,7 @@ margin: auto;
 .socialicon i{
     color: white;
     font-size: 1em;
-    padding: 6px 8px;
+    padding: 7px 8px;
 }
 .socialicon .iconbackground:hover{
    
